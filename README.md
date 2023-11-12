@@ -2,6 +2,10 @@
 
 [40 Proyectos de Vanilla JavaScript](https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/)
 
+
+![60599216687d62084bf6ac9e](https://github.com/rocioizq/javascript-basics-projects/assets/53886101/c42f1d68-1d83-48b6-aae9-5d4bf995cb30)
+
+
 1. Color Flipper
 2. Counter
 3. Reviews
